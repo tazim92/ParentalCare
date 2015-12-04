@@ -20,6 +20,8 @@
         </activity>
         <activity android:name=".Prenatal" >
         </activity>
+        <activity android:name=".AfterBirth" >
+        </activity>
     </application>
 
 </manifest>

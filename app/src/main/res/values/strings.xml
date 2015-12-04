@@ -18,4 +18,6 @@
     <string name="ButtonPrenatalSex">Button</string>
     <string name="ButtonChildCondition">শিশুর অবস্থাস</string>
     <string name="ButtonFAQ">সাধারণ প্রশ্নোত্তর</string>
+    <string name="ButtonMother">মা</string>
+    <string name="ButtonChild">শিশু</string>
 </resources>
