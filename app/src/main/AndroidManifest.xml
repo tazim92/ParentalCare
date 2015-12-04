@@ -26,7 +26,7 @@
         </activity>
         <activity android:name=".Child" >
         </activity>
-        <activity android:name=".BMI" >
+        <activity android:name=".Food_list" >
         </activity>
     </application>
 

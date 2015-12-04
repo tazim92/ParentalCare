@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void onClickGeneralInfo(View view){
         Intent i =new Intent(this, GeneralInfo.class);
+        //Intent i =new Intent(this, Food_list.class);
         startActivity(i);
 
     }
