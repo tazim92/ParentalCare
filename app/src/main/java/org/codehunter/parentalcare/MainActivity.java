@@ -17,7 +17,4 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
 
     }
-    public void sample(){
-
-    }
 }
