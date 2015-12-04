@@ -24,6 +24,8 @@
         </activity>
         <activity android:name=".AfterBirthMother" >
         </activity>
+        <activity android:name=".Child" >
+        </activity>
     </application>
 
 </manifest>

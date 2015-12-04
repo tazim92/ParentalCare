@@ -17,4 +17,15 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
 
     }
+    public void onClickRegistration(View view){
+        Intent i =new Intent(this, User_Signup.class);
+        startActivity(i);
+
+    }
+
+    public void onClickProfile(View view){
+        Intent i =new Intent(this, AfterBirth.class);
+        startActivity(i);
+
+    }
 }

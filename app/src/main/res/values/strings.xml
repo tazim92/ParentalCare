@@ -27,4 +27,10 @@
     <string name="ButtonCommonDis">সাধারণ রোগেরলক্ষণ ও প্রতিকার</string>
     <string name="ButtonMotherExercise">ব্যায়াম</string>
     <string name="ButtonMFAQ">সাধারণ প্রশ্নোত্তর </string>
+    <string name="ButtonChildNeu">শিশুর খাদ্য ও পুষ্টি</string>
+    <string name="ButtonChildHealth">শিশুর স্বাস্থ্য সেবা </string>
+    <string name="ButtonChildVac">টীকা</string>
+    <string name="ButtonChildExc">শিশুর ব্যায়াম</string>
+    <string name="ButtonChildCommDis">সাধারণ রোগেরলক্ষণ ও প্রতিকার</string>
+    <string name="ChildDisSym">রোগনির্ণয়</string>
 </resources>
