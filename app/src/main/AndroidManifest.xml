@@ -26,6 +26,8 @@
         </activity>
         <activity android:name=".Child" >
         </activity>
+        <activity android:name=".BMI" >
+        </activity>
     </application>
 
 </manifest>

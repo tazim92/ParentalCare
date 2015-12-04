@@ -1,7 +1,9 @@
 package org.codehunter.parentalcare;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class GeneralInfo extends AppCompatActivity {
 
@@ -9,5 +11,9 @@ public class GeneralInfo extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_general_info);
+    }
+    public void onClickBMI(View view){
+        Intent i = new Intent(this, BMI.class);
+        startActivity(i);
     }
 }

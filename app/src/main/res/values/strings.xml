@@ -33,4 +33,10 @@
     <string name="ButtonChildExc">শিশুর ব্যায়াম</string>
     <string name="ButtonChildCommDis">সাধারণ রোগেরলক্ষণ ও প্রতিকার</string>
     <string name="ChildDisSym">রোগনির্ণয়</string>
+    <string name="Height">উচ্চতা:</string>
+    <string name="KG">কে.জি.</string>
+    <string name="Weight">ওজন:</string>
+    <string name="Feet">ফুট</string>
+    <string name="Inc">ইঞ্চি</string>
+    <string name="calc">পরিমাপ করুন</string>
 </resources>
