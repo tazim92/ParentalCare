@@ -8,7 +8,7 @@
     tools:context="org.codehunter.parentalcare.GeneralInfo">
 
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="30%"
         android:layout_height="wrap_content"
         android:text="@string/ButtonFood"
         android:id="@+id/button"
@@ -18,7 +18,7 @@
         android:height="150dp" />
 
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="30%"
         android:layout_height="wrap_content"
         android:text="@string/ButtonBMIChart"
         android:id="@+id/button2"
@@ -28,7 +28,7 @@
         android:height="150dp" />
 
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="30%"
         android:layout_height="wrap_content"
         android:text="@string/ButtonCommonDisease"
         android:id="@+id/button3"
