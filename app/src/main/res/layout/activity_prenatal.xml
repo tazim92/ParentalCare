@@ -5,9 +5,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="org.codehunter.parentalcare.GeneralInfo">
-
-
+    tools:context="org.codehunter.parentalcare.Prenatal">
 
     <TableLayout
         android:layout_width="fill_parent"
@@ -26,21 +24,21 @@
                 android:layout_width="wrap_content"
                 android:layout_height="fill_parent"
                 android:layout_weight=".3"
-                android:text="@string/ButtonFood" />
+                android:text="@string/ButtonCalender" />
 
             <Button
                 android:id="@+id/button2"
                 android:layout_width="wrap_content"
                 android:layout_height="fill_parent"
                 android:layout_weight=".3"
-                android:text="@string/ButtonBMIChart" />
+                android:text="Button" />
 
             <Button
                 android:id="@+id/button3"
                 android:layout_width="wrap_content"
                 android:layout_height="fill_parent"
                 android:layout_weight=".3"
-                android:text="@string/ButtonBirth" />
+                android:text="Button" />
         </TableRow>
 
         <TableRow
@@ -54,21 +52,21 @@
                 android:layout_width="wrap_content"
                 android:layout_height="fill_parent"
                 android:layout_weight=".3"
-                android:text="@string/ButtonCommonDisease" />
+                android:text="Button" />
 
             <Button
                 android:id="@+id/button5"
                 android:layout_width="wrap_content"
                 android:layout_height="fill_parent"
                 android:layout_weight=".3"
-                android:text="@string/ButtonVaccination"/>
+                android:text="Button"/>
 
             <Button
                 android:id="@+id/button6"
                 android:layout_width="wrap_content"
                 android:layout_height="fill_parent"
                 android:layout_weight=".3"
-                android:text="@string/ButtonDoc" />
+                android:text="Button" />
         </TableRow>
 
         <TableRow
@@ -82,21 +80,21 @@
                 android:layout_width="wrap_content"
                 android:layout_height="fill_parent"
                 android:layout_weight=".3"
-                android:text="@string/ButtonExcercise" />
+                android:text="Button" />
 
             <Button
                 android:id="@+id/button8"
                 android:layout_width="wrap_content"
                 android:layout_height="fill_parent"
                 android:layout_weight=".3"
-                android:text="@string/ButtonHelp"/>
+                android:text="Button"/>
 
             <Button
                 android:id="@+id/button9"
                 android:layout_width="wrap_content"
                 android:layout_height="fill_parent"
                 android:layout_weight=".3"
-                android:text="@string/ButtonTips" />
+                android:text="Button" />
         </TableRow>
 
     </TableLayout>

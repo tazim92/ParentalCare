@@ -18,6 +18,8 @@
         <activity android:name=".GeneralInfo" />
         <activity android:name=".User_Signup" >
         </activity>
+        <activity android:name=".Prenatal" >
+        </activity>
     </application>
 
 </manifest>
