@@ -3,14 +3,19 @@
     <string name="GeneralInfo">সাধারণ স্বাস্থ্যসেবা</string>
     <string name="ButtonProfile">প্রোফাইল</string>
     <string name="ButtonRegistration">নিবন্ধন</string>
-    <string name="ButtonFood">খাদ্য</string>
+    <string name="ButtonFood">খাদ্য ও পুষ্টি</string>
     <string name="ButtonBMIChart">BMI চার্ট</string>
-    <string name="ButtonCommonDisease">সাধারণ অসুখ</string>
+    <string name="ButtonCommonDisease">সাধারণ রোগেরলক্ষণ ও প্রতিকার</string>
     <string name="ButtonVaccination">টীকা</string>
     <string name="ButtonDoc">অসুস্থ অনুভব করছি</string>
     <string name="ButtonExcercise">ব্যায়াম</string>
     <string name="ButtonHelp">জরুরী সাহায্য</string>
     <string name="ButtonTips">টিপস</string>
     <string name="ButtonBirth">বাচ্চা জন্মদান পদ্ধতি</string>
-    <string name="ButtonCalender">Button</string>
+    <string name="ButtonCalender">ক্যালেন্ডার</string>
+    <string name="ButtonWarning">পরামর্শ ও নিষেধাজ্ঞা সতর্কবার্তা</string>
+    <string name="ButtonPrenatalVaccination">গর্ভকালীন টীকা</string>
+    <string name="ButtonPrenatalSex">Button</string>
+    <string name="ButtonChildCondition">শিশুর অবস্থাস</string>
+    <string name="ButtonFAQ">সাধারণ প্রশ্নোত্তর</string>
 </resources>
