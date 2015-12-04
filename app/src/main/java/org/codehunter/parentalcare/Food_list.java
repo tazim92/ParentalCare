@@ -28,20 +28,20 @@ public class Food_list extends AppCompatActivity {
 
 
                     case MotionEvent.ACTION_DOWN:
-                         mx = event.getX();
+                        //mx = event.getX();
                         my = event.getY();
                         break;
                     case MotionEvent.ACTION_MOVE:
-                        curX = event.getX();
+                        //curX = event.getX();
                         curY = event.getY();
-                        img.scrollBy((int) (mx - curX), (int) (my - curY));
-                        mx = curX;
+                        img.scrollBy(0,(int) (my - curY));
+                        //mx = curX;
                         my = curY;
                         break;
                     case MotionEvent.ACTION_UP:
-                        curX = event.getX();
+                        //curX = event.getX();
                         curY = event.getY();
-                        img.scrollBy((int) (mx - curX), (int) (my - curY));
+                        img.scrollBy(0,(int) (my - curY));
                         break;
                 }
 
