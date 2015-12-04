@@ -67,17 +67,30 @@ public class BMI extends AppCompatActivity {
     public void setBMIWarning(float BMI){
 
         String status=null;
+        String prests="BMI স্ট্যাটাস : ";
+        String str=null;
+
+        TextView tv = (TextView) findViewById(R.id.textViewWarning);
+
         if(BMI<18.5){
-            status="Underweight";
+            status=prests+"স্বল্প ওজন"+"\n\n";
+            str=status+getString(R.string.lowBMI);
+            tv.setText(str);
         }
         else if( (BMI>=18.5) && (BMI<=24.9)){
-            status="Normal";
+            status=prests+"স্বাভাবিক ওজন "+"\n";
+            str=status+getString(R.string.normalBMI);
+            tv.setText(str);
         }
         else if((BMI>=25) && (BMI<=29.9)){
-            status="Overweight";
+            status=prests+"অতিরিক্ত ওজন"+"\n\n";
+            str=status+getString(R.string.highBMI);
+            tv.setText(str);
         }
         else if(BMI>30.0){
-            status="Obese";
+            status=prests+"মাত্রাতিরিক্ত ওজন"+"\n\n";
+            str=status+getString(R.string.highBMI);
+            tv.setText(str);
         }
 
     }
