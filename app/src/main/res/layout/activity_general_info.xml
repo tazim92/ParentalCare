@@ -10,7 +10,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/ButtonFood"
         android:id="@+id/button"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
@@ -20,7 +20,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/ButtonBMIChart"
         android:id="@+id/button2"
         android:layout_alignParentTop="true"
         android:layout_toRightOf="@+id/button"
@@ -30,7 +30,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/ButtonCommonDisease"
         android:id="@+id/button3"
         android:layout_alignParentTop="true"
         android:layout_toRightOf="@+id/button2"
@@ -40,7 +40,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/ButtonVaccination"
         android:id="@+id/button4"
         android:layout_below="@+id/button"
         android:layout_alignParentLeft="true"
@@ -50,7 +50,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/ButtonDoc"
         android:id="@+id/button5"
         android:layout_alignTop="@+id/button4"
         android:layout_toRightOf="@+id/button4"
@@ -60,7 +60,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/ButtonExcercise"
         android:id="@+id/button6"
         android:layout_alignTop="@+id/button5"
         android:layout_toRightOf="@+id/button5"
@@ -70,7 +70,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/ButtonHelp"
         android:id="@+id/button7"
         android:layout_below="@+id/button4"
         android:layout_alignParentLeft="true"
@@ -80,7 +80,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/ButtonTips"
         android:id="@+id/button8"
         android:layout_below="@+id/button4"
         android:layout_toRightOf="@+id/button7"
@@ -90,10 +90,10 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/ButtonBirth"
         android:id="@+id/button9"
-        android:layout_below="@+id/button5"
+        android:height="150dp"
+        android:layout_alignTop="@+id/button8"
         android:layout_toRightOf="@+id/button5"
-        android:layout_toEndOf="@+id/button5"
-        android:height="150dp" />
+        android:layout_toEndOf="@+id/button5" />
 </RelativeLayout>
