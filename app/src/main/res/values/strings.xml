@@ -20,4 +20,11 @@
     <string name="ButtonFAQ">সাধারণ প্রশ্নোত্তর</string>
     <string name="ButtonMother">মা</string>
     <string name="ButtonChild">শিশু</string>
+    <string name="ButtonBF">স্তন্যপানর নিয়ম</string>
+    <string name="ButtonMotherFood">মাতৃখাদ্য ও পুষ্টি </string>
+    <string name="ButtonMotherHealthCare">স্বাস্থ্য সেবা</string>
+    <string name="ButtonMotherWarning">নিষেধাজ্ঞা</string>
+    <string name="ButtonCommonDis">সাধারণ রোগেরলক্ষণ ও প্রতিকার</string>
+    <string name="ButtonMotherExercise">ব্যায়াম</string>
+    <string name="ButtonMFAQ">সাধারণ প্রশ্নোত্তর </string>
 </resources>
