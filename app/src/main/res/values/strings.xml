@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">ParentalCare</string>
-    <string name="GeneralInfo">সাধারণ সেবা</string>
+    <string name="GeneralInfo">সাধারণ স্বাস্থ্যসেবা</string>
+    <string name="ButtonProfile">প্রোফাইল</string>
+    <string name="ButtonRegistration">নিবন্ধন</string>
 </resources>

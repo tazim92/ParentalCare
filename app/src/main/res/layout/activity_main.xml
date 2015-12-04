@@ -19,7 +19,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/ButtonProfile"
         android:id="@+id/buttonProfile"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
@@ -29,7 +29,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/ButtonRegistration"
         android:id="@+id/buttonRegistration"
         android:layout_alignTop="@+id/buttonProfile"
         android:layout_alignRight="@+id/buttonGeneralInfo"
